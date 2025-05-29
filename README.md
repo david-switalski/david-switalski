@@ -18,6 +18,8 @@ Soy un estudiante apasionado de 💻 **Ingeniería Informática** curso actualme
     * Manejo de **Pandas** y **Matplotlib**.
     * Creación de aplicaciones interactivas con **Streamlit**.
 * **Sistemas ERP ⚙️**: Conocimiento basico de sistemas ERP
+* **Control de Versiones 🌳**:
+    * Manejo solido de **git** y **github**
 
 ---
 
