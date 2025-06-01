@@ -1,6 +1,6 @@
 ### ¡Hola! Soy David Switalski 👋
 
-Soy un estudiante apasionado de 💻 **Ingeniería Informática** curso actualmente el 3er año, con una fuerte inclinación hacia la **Inteligencia Artificial**. Estoy en constante búsqueda de conocimiento y disfruto mucho de los desafíos que me permiten crecer.
+Soy un estudiante apasionado de 💻 **Ingeniería Informática** curso actualmente el 3er año, con un fuerte interes hacia la **Inteligencia Artificial**. Estoy en constante búsqueda de conocimiento y disfruto mucho de los desafíos que me permiten crecer.
 
 ---
 
@@ -8,14 +8,14 @@ Soy un estudiante apasionado de 💻 **Ingeniería Informática** curso actualme
 
 * **Python**: Mi lenguaje principal y el núcleo de mis proyectos.
 * **Inteligencia Artificial 🧠**:
-    * Modelo básico para la detección de enfermedades del cacao.
+    * Modelo básico para la detección de enfermedades de platans.
     * Curso de IA de Samsung.
 * **Desarrollo de Software 🛠️**:
     * Aplicaciones de escritorio con **Tkinter** y **MySQL**.
     * Manejo de bases de datos relacionales: **PostgreSQL** y **SQL**.
     * Familiaridad con **Linux**.
 * **Análisis y Visualización de Datos 📊**:
-    * Manejo de **Pandas** y **Matplotlib**.
+    * Manejo de **Pandas** , **Matplotlib** y **Seaborn**.
     * Creación de aplicaciones interactivas con **Streamlit**.
 * **Sistemas ERP ⚙️**: Conocimiento basico de sistemas ERP
 * **Control de Versiones 🌳**:
